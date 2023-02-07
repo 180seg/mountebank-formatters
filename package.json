@@ -22,7 +22,7 @@
     "mountebank"
   ],
   "dependencies": {
-    "ejs": "2.7.4",
+    "ejs": "3.1.8",
     "fs-extra": "9.0.1"
   },
   "devDependencies": {
@@ -30,7 +30,11 @@
     "mocha": "8.2.1",
     "snyk": "1.437.3"
   },
-  "files": ["src", "README.md", "package*.json"],
+  "files": [
+    "src",
+    "README.md",
+    "package*.json"
+  ],
   "engines": {
     "node": ">=10"
   }
